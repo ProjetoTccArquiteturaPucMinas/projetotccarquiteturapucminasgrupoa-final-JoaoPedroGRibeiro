@@ -9,5 +9,4 @@ com\example\marketplace\repository\ProdutoEmMemoriaRepository.class
 com\example\marketplace\service\ServicoCarrinho.class
 com\example\marketplace\model\CategoriaProduto.class
 com\example\marketplace\service\ServicoProduto.class
-com\example\marketplace\service\ServicoCarrinho$1.class
 com\example\marketplace\repository\ProdutoRepository.class
